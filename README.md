@@ -1,4 +1,9 @@
 # mjpeg-reader
+[![NPM
+version](https://badge.fury.io/js/node-mjpeg-reader.svg)](http://badge.fury.io/js/node-mjpeg-reader)
+[![Build Status](https://travis-ci.org/enobufs/node-mjpeg-reader.svg?branch=master)](https://travis-ci.org/enobufs/node-mjpeg-reader)
+[![Coverage Status](https://coveralls.io/repos/enobufs/node-mjpeg-reader/badge.png?branch=master)](https://coveralls.io/r/enobufs/node-mjpeg-reader?branch=master)
+
 Motion JPEG stream reader.
 It reads from either named pipe or a file with [JFIF format](https://www.w3.org/Graphics/JPEG/) then returns individual JPEG data (a Buffer).
 
