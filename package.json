@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/enobufs/node-mjpeg-reader#readme",
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
     "rimraf": "^2.6.2"
