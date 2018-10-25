@@ -1,6 +1,6 @@
 {
   "name": "mjpeg-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Motion JPEG stream reader.",
   "main": "index.js",
   "scripts": {
