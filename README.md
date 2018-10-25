@@ -1,6 +1,5 @@
 # mjpeg-reader
-[![NPM
-version](https://badge.fury.io/js/node-mjpeg-reader.svg)](http://badge.fury.io/js/node-mjpeg-reader)
+[![npm version](https://badge.fury.io/js/mjpeg-reader.svg)](https://badge.fury.io/js/mjpeg-reader)
 [![Build Status](https://travis-ci.org/enobufs/node-mjpeg-reader.svg?branch=master)](https://travis-ci.org/enobufs/node-mjpeg-reader)
 [![Coverage Status](https://coveralls.io/repos/github/enobufs/node-mjpeg-reader/badge.svg?branch=master)](https://coveralls.io/github/enobufs/node-mjpeg-reader?branch=master)
 
